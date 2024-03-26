@@ -1,0 +1,12 @@
+[submodule "habitat-smi"]
+	path = habitat-smi
+	url = git@github.com:sonia-raychaudhuri/habitat-sim.git
+[submodule "habitat-lab"]
+	path = habitat-lab
+	url = git@github.com:sonia-raychaudhuri/habitat-lab.git
+[submodule "habitat-sim"]
+	path = habitat-sim
+	url = git@github.com:sonia-raychaudhuri/habitat-sim.git
+[submodule "mopa"]
+	path = mopa
+	url = git@github.com:3dlg-hcvc/mopa.git
